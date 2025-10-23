@@ -26,3 +26,7 @@
 ## Yang-Yang Thermodynamic Bethe ansatz 
 ### 7.Thermodynamics of a One‐Dimensional System of Bosons with Repulsive Delta‐Function Interaction
 ### https://pubs.aip.org/aip/jmp/article/10/7/1115/222939/Thermodynamics-of-a-One-Dimensional-System-of
+### Lee-Huang-Yang correction 
+### 8
+### 9
+### 10
