@@ -26,7 +26,13 @@
 ## Yang-Yang Thermodynamic Bethe ansatz 
 ### 7.Thermodynamics of a One‐Dimensional System of Bosons with Repulsive Delta‐Function Interaction
 ### https://pubs.aip.org/aip/jmp/article/10/7/1115/222939/Thermodynamics-of-a-One-Dimensional-System-of
-### Lee-Huang-Yang correction 
-### 8
-### 9
-### 10
+## Lee-Huang-Yang correction 
+### 8. Many-Body Problem in Quantum Mechanics and Quantum Statistical Mechanics
+### https://journals.aps.org/pr/abstract/10.1103/PhysRev.105.1119
+### 9. Quantum-Mechanical Many-Body Problem with Hard-Sphere Interaction
+### https://journals.aps.org/pr/abstract/10.1103/PhysRev.105.767
+### 10. Imperfect Bose Gas with Hard-Sphere Interaction
+###  https://journals.aps.org/pr/abstract/10.1103/PhysRev.105.776
+### 11.Eigenvalues and Eigenfunctions of a Bose System of Hard Spheres and Its Low-Temperature Properties
+### https://journals.aps.org/pr/abstract/10.1103/PhysRev.106.1135
+
