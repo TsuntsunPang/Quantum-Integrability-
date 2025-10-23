@@ -128,6 +128,8 @@
 ###  https://academic.oup.com/ptp/article/42/5/1098/1874213?searchresult=1
 ###  Magnetic Susceptibility for the Half-Filled Hubbard Model---M.Takahashi
 ###  https://academic.oup.com/ptp/article/43/6/1619/1870660?searchresult=1
+###  Thermodynamic Bethe-ansatz equations for the Hubbard chain with an attractive interaction-----Kong-Ju-Bock Lee and P. Schlottmann
+###  https://journals.aps.org/prb/pdf/10.1103/PhysRevB.38.1156
 
 
 
