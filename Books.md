@@ -32,3 +32,4 @@
 ##  The Kondo Problem to Heavy Fermions------Alexander Cyril Hewson
 ##  Form Factors in Completely Integrable Models of Quantum Field Theory------ Smirnov F.A.
 ##  Phase transition and critical phenomena------Green, C.Domb  chapter5 
+## Integrability using the Sine-Gordon and Thirring Duality-----Alessandro Torrielli
