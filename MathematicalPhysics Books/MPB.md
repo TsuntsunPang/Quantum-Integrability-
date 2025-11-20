@@ -2,3 +2,4 @@
 # Methods Of Theoretical Physics, Part I  --------Philip McCord Morse, Herman Feshbach
 # Methods Of Theoretical Physics, Part II --------Philip McCord Morse, Herman Feshbach
 # Mathematical Methods for physicists------George Arfken
+# Table of Integrals, Series, and Products------I.S. Gradshteyn and I.M. Ryzhik
