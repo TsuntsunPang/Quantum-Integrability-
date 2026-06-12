@@ -23,3 +23,5 @@
 ## https://scholar.google.com/citations?user=uhqFQUEAAAAJ&hl=en
 # Lorenzo Piroli
 ## https://scholar.google.com/citations?user=IOGnJQgAAAAJ&hl=it
+# Balázs Pozsgay
+## https://scholar.google.com/citations?user=0vC00BEAAAAJ&hl=it
