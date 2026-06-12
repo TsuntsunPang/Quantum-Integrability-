@@ -17,3 +17,5 @@
 ## https://scholar.google.com/citations?user=9BxPNJgAAAAJ&hl=en
 # Enej Ilievski
 ## https://scholar.google.com/citations?user=eA2xzCAAAAAJ&hl=en
+# Jean-Sébastien Caux
+## https://scholar.google.com/citations?user=B-HvfFsAAAAJ&hl=en
