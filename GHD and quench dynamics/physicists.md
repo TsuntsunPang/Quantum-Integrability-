@@ -21,3 +21,5 @@
 ## https://scholar.google.com/citations?user=B-HvfFsAAAAJ&hl=en
 # Romain Vasseur
 ## https://scholar.google.com/citations?user=uhqFQUEAAAAJ&hl=en
+# Lorenzo Piroli
+## https://scholar.google.com/citations?user=IOGnJQgAAAAJ&hl=it
