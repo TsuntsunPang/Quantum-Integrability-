@@ -19,3 +19,5 @@
 ## https://scholar.google.com/citations?user=eA2xzCAAAAAJ&hl=en
 # Jean-Sébastien Caux
 ## https://scholar.google.com/citations?user=B-HvfFsAAAAJ&hl=en
+# Romain Vasseur
+## https://scholar.google.com/citations?user=uhqFQUEAAAAJ&hl=en
