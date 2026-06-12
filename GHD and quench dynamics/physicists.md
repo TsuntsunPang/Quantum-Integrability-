@@ -7,3 +7,13 @@
 # Bruno Bertini
 ## https://scholar.google.com/citations?user=3BV493QAAAAJ&hl=en
 ## PhD thesis: https://ora.ox.ac.uk/objects/uuid:1e2c50b9-73b3-4ca0-a5f3-276f967c3720
+# Pasquale Calabrese
+## https://scholar.google.com/citations?user=7B9Fh90AAAAJ&hl=en
+# Colin Rylands
+## https://scholar.google.com/citations?user=Of15gRAAAAAJ&hl=en
+# Maurizio Fagotti
+## https://scholar.google.com/citations?user=tIwqiOQAAAAJ&hl=en
+# Jacopo De Nardis
+## https://scholar.google.com/citations?user=9BxPNJgAAAAJ&hl=en
+# Enej Ilievski
+## https://scholar.google.com/citations?user=eA2xzCAAAAAJ&hl=en
