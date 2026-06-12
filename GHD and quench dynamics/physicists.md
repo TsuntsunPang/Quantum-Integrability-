@@ -25,3 +25,5 @@
 ## https://scholar.google.com/citations?user=IOGnJQgAAAAJ&hl=it
 # Balázs Pozsgay
 ## https://scholar.google.com/citations?user=0vC00BEAAAAJ&hl=it
+# Marko Znidaric
+## https://scholar.google.com/citations?user=J-_8_9oAAAAJ&hl=en
